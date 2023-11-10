@@ -1,0 +1,236 @@
+body {
+  background-color: #f5eec6e8;
+  font-family: system-ui;
+}
+.shoppingcontainer {
+  width: 90%;
+  margin: auto;
+  transition: 0.5s;
+}
+header {
+  display: grid;
+  grid-template-columns: 1fr 50px;
+  margin-top: 10px;
+}
+header .shopping {
+  position: relative;
+  text-align: right;
+}
+header .shopping img {
+  width: 40px;
+}
+header .shopping span {
+  background: red;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  position: absolute;
+  top: -5px;
+  left: 80%;
+  padding: 3px 10px;
+}
+.shoppinglist {
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr); */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 3fr));
+  column-gap: 30px;
+  row-gap: 20px;
+  margin-top: 20px;
+}
+.shoppinglist .item {
+  text-align: center;
+  /* background-color: #dce0e1; */
+  padding: 20px;
+  /* box-shadow: 0 50px 50px #dee7e7; */
+  letter-spacing: 1px;
+}
+.shoppinglist .item img {
+  width: 35%;
+  height: 40%;
+}
+.shoppinglist .item .title {
+  font-weight: 600;
+}
+.shoppinglist .item .price {
+  margin: 10px;
+}
+.shoppinglist .item button {
+  background-color: #1c1f25;
+  color: #fff;
+  width: 70%;
+  padding: 10px;
+}
+.shoppingcard {
+  position: fixed;
+  top: 0;
+  left: 100%;
+  width: 500px;
+  background-color: #453e3b;
+  height: 100vh;
+  transition: 0.5s;
+}
+.active .shoppingcard {
+  left: calc(100% - 500px);
+}
+.active .shoppingcontainer {
+  transform: translateX(-200px);
+  color: pink;
+}
+.closeShopping img {
+  width: 30px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.shoppingcard h1 {
+  color: #e8bc0e;
+  font-weight: 100;
+  margin: 0;
+  padding: 0 20px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+.shoppingcard .checkOut {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.shoppingcard .checkOut div {
+  background-color: #e8bc0e;
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  cursor: pointer;
+}
+.shoppingcard .checkOut div:nth-child(2) {
+  background-color: #1c1f25;
+  color: #fff;
+}
+.shoppinglistCard li {
+  display: grid;
+  grid-template-columns: 100px repeat(3, 1fr);
+  color: #fff;
+  row-gap: 10px;
+}
+.shoppinglistCard li div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.shoppinglistCard li img {
+  width: 90%;
+}
+.shopppinglistCard li button {
+  background-color: #fff5;
+  border: none;
+}
+.shoppinglistCard .count {
+  margin: 0 10px;
+}
+
+.searchBar {
+  padding: 10px;
+  border-radius: 20px;
+  width: 80%;
+  margin-top: 10px;
+  border-color: #1c1f25;
+  display: flex;
+}
+
+.OrderSummarymodal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.OrderSummarymodalContent {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 600px; 
+  
+  text-shadow: none;
+  font-weight: none;
+}
+
+.OrderSummarymodalContent img {
+  width: 30px;
+  cursor: pointer;
+}
+.OrderSummarymodalContent h2 {
+  margin-top: 0;
+}
+
+.OrderSummarymodalContent ul {
+  list-style: none;
+  padding: 0;
+}
+
+.OrderSummarymodalContent .quantity {
+  display: flex;
+  justify-content: end;
+  margin-right: 100px;
+}
+.OrderSummarymodalContent ul li {
+  display: grid;
+  grid-template-columns: 100px repeat(3, 1fr);
+  row-gap: 10px;
+}
+
+.OrderSummarymodalContent ul li img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.OrderSummarymodalContent .modalActions {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.OrderSummarymodalContent .modalActions button {
+  margin-left: 10px;
+}
+.shoppinglist .item1 {
+  background-image: linear-gradient(rgba(224, 216, 216, 0.705), #dd8b2d);
+  text-align: center;
+  background-color: #dcdce1;
+  padding: 20px;
+  margin: 25px;
+  border-radius: 20px;
+  box-shadow: 0 50px 50px #5c2d02;
+  letter-spacing: 1px;
+}
+
+body {
+  overflow-x: hidden !important;
+}
+.container {
+  max-width: 90% !important;
+  /* overflow-x: hidden !important; */
+}
+@media screen and (max-width: 667px) {
+  body {
+    overflow-x: hidden !important;
+  }
+  .container {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+  }
+}

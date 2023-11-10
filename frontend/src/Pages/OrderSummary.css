@@ -1,0 +1,174 @@
+.order-summary {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  /* background-color: rgb(212, 218, 141); */
+  border-radius: 20px;
+}
+.order-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 20px;
+}
+.order-item {
+  display: flex;
+  align-items: center;
+
+  padding: 10px;
+}
+.order-item img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+.item-details {
+  flex: 1;
+}
+.totalprice {
+  margin-top: 20px;
+  text-align: right;
+
+  padding: 10px;
+  border-radius: 20px;
+}
+.address {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 12px;
+  background-color: #d4994b;
+  width: 400px;
+}
+.form-group {
+  margin-bottom: 10px;
+}
+.form-group label {
+  display: block;
+  font-weight: bold;
+}
+.form-group input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.order-summary > h1,
+.step-content > h2 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.order-summary > h1 {
+  text-decoration: underline;
+  font-size: xx-large;
+}
+
+/* App.css */
+
+.stepper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.step {
+  width: 100px;
+  height: 40px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #fff;
+  transition: background-color 0.2s;
+}
+
+.step.active {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.step:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.step:first-child {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.step:last-child {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.step-content {
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  min-height: 200px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap:25px;
+}
+
+.order-summary button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.order-summary button:hover {
+  background-color: #0056b3;
+}
+
+/* Add this CSS to your OrderSummary.css or a separate CSS file */
+.custom-radio input[type="radio"] {
+  display: none;
+}
+
+.custom-radio label {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.custom-radio label:before {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border: 2px solid #007BFF; /* Border color for unselected radio */
+  border-radius: 50%;
+  background-color: white;
+  transition: 0.4s;
+}
+
+.custom-radio input[type="radio"]:checked + label:before {
+  background-color: #007BFF; /* Background color for selected radio */
+  border: 2px solid #007BFF; /* Border color for selected radio */
+}
+
+.custom-radio label:hover:before {
+  border: 2px solid #0056B3; /* Border color for hover effect */
+}

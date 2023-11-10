@@ -1,0 +1,48 @@
+.chatbox {
+  position: fixed;
+  top: 10%;
+  left: calc(100vw - 380px);
+  background-color: #376b7e;
+  z-index: 999;
+}
+
+.chatbtn {
+  height: 50px;
+  width: 50px;
+  border: 0;
+  position: fixed;
+  top: calc(100vh - 60px);
+  left: calc(100vw - 100px);
+  background-color: #5ccc9d;
+  z-index: 999;
+  border-radius: 50%;
+}
+
+.message-container {
+  position: absolute;
+  top: calc(100vh - 200px);
+  left: 30px;
+  background-color: #5ccc9d;
+  padding: 2px 7px;
+  border-radius: 50%;
+}
+
+.message-container span {
+  color: black;
+  cursor: pointer;
+}
+
+.message {
+  position: absolute;
+  left: 20px;
+  width: 200px;
+  height: 65px;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 3px 14px 20px -8px rgba(0, 0, 0, 0.75);
+}
+
+.message p {
+  left: 10px;
+}

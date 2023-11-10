@@ -1,0 +1,51 @@
+.covercard {
+  box-shadow: 10px 10px 20px 1px lightgray;
+  margin: auto;
+  background-image: linear-gradient(rgba(224, 216, 216, 0.705), #e68743);
+  color: black;
+  font-family: sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-height: fit-content;
+}
+.card {
+  height: fit-content;
+  border-radius: 20px;
+  margin: 30px 50px;
+  box-shadow: 10px 10px 30px grey;
+}
+.cards {
+  align-content: space-evenly;
+}
+.right-text {
+  float: right;
+  color: green;
+}
+.offerCard {
+  box-shadow: 10px 10px 10px 1px lightgray;
+  margin: auto;
+  background-image: linear-gradient(rgba(224, 216, 216, 0.705), #e68743);
+  text-align: center;
+  color: red;
+  padding: 10px;
+  font-family: sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-height: fit-content;
+}
+.couponCode {
+  box-shadow: 5px 5px 5px 1px rgb(100, 100, 100);
+  background-image: linear-gradient(to right, blue, green, orange, red, #e68743);   
+  background-clip: text;
+  color: transparent;
+  text-align: center;
+  padding: 10px;
+  margin: 5px 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-height: fit-content;
+}
+.offers-text {
+  float: left;
+  color: red;
+}

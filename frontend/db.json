@@ -1,0 +1,1053 @@
+{
+  "user": [
+    {
+      "id": "bahadursingh",
+      "name": "Raj Bahadur",
+      "email": "bahadur@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "kanika",
+      "name": "Kanika",
+      "email": "kanika123@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "amit",
+      "name": "amit",
+      "email": "abc@gmail.com",
+      "password": "12"
+    },
+    {
+      "id": "Dhee",
+      "name": "Dheeraj Kapri",
+      "email": "dheerajkapri@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "3PbOUAC",
+      "name": "Brijwasi",
+      "location": "Mumbai",
+      "rating": 4.5,
+      "email": "brijwasi@restaurant.com",
+      "Offers": "50",
+      "images": {
+        "location": "image/place.jpg"
+      }
+    },
+    {
+      "name": "Karim's",
+      "location": "Mumbai",
+      "email": "silver@gmail.com",
+      "rating": "4.1",
+      "id": "_ADIfzB",
+      "Offers": "0",
+      "images": {
+        "location": "image/idli.jpg"
+      }
+    },
+    {
+      "name": "Pizza Express",
+      "location": "Mumbai",
+      "email": "lata@gmail.com",
+      "rating": "3.8",
+      "id": "NdLtuWA",
+      "Offers": "60",
+      "images": {
+        "location": "image/noodles.jpg"
+      }
+    },
+    {
+      "name": "IGP cakes",
+      "location": "Mumbai",
+      "email": "raj@gmail.com",
+      "rating": "3.4",
+      "id": "E3jgOtk",
+      "Offers": "22",
+      "images": {
+        "location": "image/salads.jpg"
+      }
+    },
+    {
+      "name": "Flower Family",
+      "location": "Noida",
+      "email": "alka@gmail.com",
+      "rating": "4.1",
+      "id": "ILz_K2q",
+      "Offers": "82",
+      "images": {
+        "location": "image/fresh.jpg"
+      }
+    },
+    {
+      "name": "Pizza Hut",
+      "location": "Mumbai",
+      "email": "aditi@gmail.com",
+      "rating": "4.5",
+      "Offers": "60",
+      "images": {
+        "location": "image/noodles.jpg"
+      },
+      "id": "OfIxC0i"
+    },
+    {
+      "name": "Dominos",
+      "location": "Noida",
+      "email": "amir@gmail.com",
+      "rating": "4.5",
+      "Offers": "30",
+      "images": {
+        "location": "image/place.jpg"
+      },
+      "id": "9LJ3Tyr"
+    },
+    {
+      "name": "Delhi Darbar",
+      "location": "Delhi",
+      "email": "dsds@gmail.com",
+      "rating": "4.8",
+      "Offers": "45",
+      "images": {
+        "location": "image/salads.jpg"
+      },
+      "id": "4Gv3glX"
+    },
+    {
+      "id": "5Gv3glX",
+      "name": "imperfecto",
+      "rating": 4.3,
+      "Offers": "60",
+      "location": "Noida",
+      "images": {
+        "location": "image/fresh.jpg"
+      }
+    },
+    {
+      "id": "4Gj3glX",
+      "name": "LaPizza",
+      "rating": 3.8,
+      "Offers": "80",
+      "location": "Gurgoan",
+      "images": {
+        "location": "image/noodles.jpg"
+      }
+    },
+    {
+      "id": "4Gv3g7X",
+      "name": "khan chacha",
+      "rating": 4.3,
+      "location": "Mumbai",
+      "Offers": "60",
+      "images": {
+        "location": "image/fresh.jpg"
+      }
+    },
+    {
+      "id": "4Gu3glX",
+      "name": "Drink Daddy",
+      "image": "diverse",
+      "rating": 4.7,
+      "Offers": "50",
+      "location": "Mumbai",
+      "images": {
+        "location": "image/place.jpg"
+      }
+    },
+    {
+      "id": "4Gv3clX",
+      "name": "King Cafe",
+      "image": "idli",
+      "rating": 4.6,
+      "Offers": "25",
+      "location": "Gurgoan",
+      "images": {
+        "location": "image/noodles.jpg"
+      }
+    },
+    {
+      "id": "4Kv3glX",
+      "name": "Pizza Slice",
+      "image": "slicee",
+      "rating": 4.8,
+      "Offers": "35",
+      "location": "Bangalore",
+      "images": {
+        "location": "image/place.jpg"
+      }
+    },
+    {
+      "id": "4Gv3glU",
+      "name": "Pizza Hut",
+      "image": "noodles",
+      "rating": 4.1,
+      "Offers": "65",
+      "location": "Noida",
+      "images": {
+        "location": "image/place.jpg"
+      }
+    },
+    {
+      "name": "Raj Darbar",
+      "location": "Mumbai",
+      "email": "Raj@gmail.com",
+      "rating": "4.9",
+      "Offers": "60",
+      "images": {
+        "location": "image/salads.jpg"
+      },
+      "id": "tVYHAAB"
+    },
+    {
+      "name": "nazir",
+      "location": "CP",
+      "email": "NaZIR@gmail.com",
+      "rating": "4",
+      "Offers": "40",
+      "images": {
+        "location": "image/noodles.jpg"
+      },
+      "id": "JIi7lOL"
+    },
+    {
+      "name": "delhi nazir",
+      "location": "delhi",
+      "email": "d@gmail.com",
+      "rating": "4",
+      "Offers": "70",
+      "images": {
+        "location": "image/place.jpg"
+      },
+      "id": "6p76ujP"
+    },
+    {
+      "name": "swiggy app",
+      "location": "delhi",
+      "email": "dheeraj@gmail.com",
+      "rating": "4.8",
+      "Offers": "55",
+      "images": {
+        "location": "image/place.jpg"
+      },
+      "id": "WT_1kiJ"
+    },
+    {
+      "name": "meghnafood",
+      "location": "bangalore",
+      "email": "d@gmail.com",
+      "rating": "4.8",
+      "Offers": "50",
+      "images": {
+        "location": "image/place.jpg"
+      },
+      "id": "rCUMCip"
+    },
+    {
+      "name": "ff",
+      "location": "gg",
+      "email": "d@gmail.com",
+      "rating": "4",
+      "images": {
+        "location": "image/place.jpg"
+      },
+      "Offers": "55",
+      "id": "AKIwRyV"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Chowmine",
+      "image": "1.PNG",
+      "price": 120,
+      "cuisine": "chinese"
+    },
+    {
+      "id": 2,
+      "name": "Dosa",
+      "image": "2.PNG",
+      "price": 100,
+      "cuisine": "southIndian"
+    },
+    {
+      "id": 3,
+      "name": "Idli",
+      "image": "3.PNG",
+      "price": 50,
+      "cuisine": "southIndian"
+    },
+    {
+      "id": 4,
+      "name": "Momos",
+      "image": "4.PNG",
+      "price": 40,
+      "cuisine": "chinese"
+    },
+    {
+      "id": 5,
+      "name": "Dal Makhni",
+      "image": "5.PNG",
+      "price": 100,
+      "cuisine": "northIndian"
+    },
+    {
+      "id": 6,
+      "name": "Aaloo Prantha",
+      "image": "6.PNG",
+      "price": 40,
+      "cuisine": "northIndian"
+    },
+    {
+      "id": 7,
+      "name": "Mix Salad",
+      "image": "5.PNG",
+      "price": 50,
+      "cuisine": "salads"
+    },
+    {
+      "id": 8,
+      "name": "Peri Peri Veggies",
+      "image": "5.PNG",
+      "price": 80,
+      "cuisine": "salads"
+    },
+    {
+      "id": 9,
+      "name": "Capsicum Max",
+      "image": "5.PNG",
+      "price": 140,
+      "cuisine": "salads"
+    }
+  ],
+  "profile": [
+    {
+      "name": "Lata",
+      "gender": "male",
+      "dob": "2023-06-03",
+      "phone": "6756567889",
+      "address": "bsr",
+      "email": "lata123@gmail.com",
+      "id": "e1GLTLi",
+      "body": "{\"name\":\"Lataaa\",\"gender\":\"male\",\"dob\":\"2023-06-03\",\"phone\":\"6756567889\",\"address\":\"bsr\",\"email\":\"lata123@gmail.com\"}",
+      "headers": {
+        "content-type": "application/json"
+      }
+    },
+    {
+      "name": "kanika kapur",
+      "gender": "female",
+      "dob": "2007-06-14",
+      "phone": "6789876789",
+      "address": "rajnagar",
+      "email": "kanika@gmail.com",
+      "id": "5EbEDh1"
+    },
+    {
+      "name": "Pooja Sharma",
+      "gender": "Female",
+      "dob": "2023-02-16",
+      "phone": "5643456567",
+      "address": "Mumbai",
+      "email": "pooja@gmail.com",
+      "id": "3PbOUAC"
+    }
+  ],
+  "coupons": [
+    {
+      "code": "SALE10"
+    },
+    {
+      "code": "SALE20"
+    },
+    {
+      "code": "SALE30"
+    },
+    {
+      "code": "SALE40"
+    },
+    {
+      "code": "INDI50"
+    },
+    {
+      "code": "RAKSHA50"
+    },
+    {
+      "code": "DIWALI40"
+    }
+  ],
+  "orderHistory": [
+    {
+      "date": "2023-07-05",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 1,
+            "name": "Chowmine",
+            "image": "1.PNG",
+            "price": 120,
+            "cuisine": "chinese",
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "name": "Dosa",
+            "image": "2.PNG",
+            "price": 100,
+            "cuisine": "southIndian",
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "name": "Idli",
+            "image": "3.PNG",
+            "price": 50,
+            "cuisine": "southIndian",
+            "quantity": 1
+          },
+          {
+            "id": 6,
+            "name": "Aaloo Prantha",
+            "image": "6.PNG",
+            "price": 40,
+            "cuisine": "northIndian",
+            "quantity": 1
+          },
+          {
+            "id": 5,
+            "name": "Dal Makhni",
+            "image": "5.PNG",
+            "price": 100,
+            "cuisine": "northIndian",
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "name": "Momos",
+            "image": "4.PNG",
+            "price": 40,
+            "cuisine": "chinese",
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "name": "Mix Salad",
+            "image": "5.PNG",
+            "price": 50,
+            "cuisine": "salads",
+            "quantity": 1
+          },
+          {
+            "id": 8,
+            "name": "Peri Peri Veggies",
+            "image": "5.PNG",
+            "price": 80,
+            "cuisine": "salads",
+            "quantity": 1
+          },
+          {
+            "id": 9,
+            "name": "Capsicum Max",
+            "image": "5.PNG",
+            "price": 140,
+            "cuisine": "salads",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 576,
+        "formData": {
+          "firstName": "naveen",
+          "lastName": "sharma",
+          "address": "abc",
+          "city": "delhi",
+          "state": "xyz"
+        }
+      },
+      "id": 1
+    },
+    {
+      "date": "2023-07-05",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 3,
+            "name": "Idli",
+            "image": "3.PNG",
+            "price": 50,
+            "cuisine": "southIndian",
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "name": "Dosa",
+            "image": "2.PNG",
+            "price": 100,
+            "cuisine": "southIndian",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 150,
+        "formData": {
+          "firstName": "khjgfd",
+          "lastName": "kmnjbhvg",
+          "address": "rg",
+          "city": "h",
+          "state": "delhi"
+        }
+      },
+      "id": 2
+    },
+    {
+      "date": "2023-07-06",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 6,
+            "name": "Aaloo Prantha",
+            "image": "6.PNG",
+            "price": 40,
+            "cuisine": "northIndian",
+            "quantity": 2
+          },
+          {
+            "id": 5,
+            "name": "Dal Makhni",
+            "image": "5.PNG",
+            "price": 100,
+            "cuisine": "northIndian",
+            "quantity": 3
+          }
+        ],
+        "totalPrice": 304,
+        "formData": {
+          "firstName": "ravi",
+          "lastName": "s",
+          "address": "bengaluru",
+          "city": "bengaluru",
+          "state": "kar"
+        }
+      },
+      "id": 3
+    },
+    {
+      "date": "2023-07-06",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 2,
+            "name": "Dosa",
+            "image": "2.PNG",
+            "price": 100,
+            "cuisine": "southIndian",
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "name": "Idli",
+            "image": "3.PNG",
+            "price": 50,
+            "cuisine": "southIndian",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 150,
+        "formData": {
+          "firstName": "abcd",
+          "lastName": "abcd",
+          "address": "abcd",
+          "city": "abcd",
+          "state": "abcd"
+        }
+      },
+      "id": 4
+    },
+    {
+      "date": "2023-07-06",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 7,
+            "name": "Mix Salad",
+            "image": "5.PNG",
+            "price": 50,
+            "cuisine": "salads",
+            "quantity": 1
+          },
+          {
+            "id": 8,
+            "name": "Peri Peri Veggies",
+            "image": "5.PNG",
+            "price": 80,
+            "cuisine": "salads",
+            "quantity": 1
+          },
+          {
+            "id": 9,
+            "name": "Capsicum Max",
+            "image": "5.PNG",
+            "price": 140,
+            "cuisine": "salads",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 270,
+        "formData": {
+          "firstName": "hi",
+          "lastName": "hi",
+          "address": "hi",
+          "city": "hi",
+          "state": "hi"
+        }
+      },
+      "id": 5
+    },
+    {
+      "user_id": "bahadursingh",
+      "date": "2023-07-06",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 6,
+            "name": "Aaloo Prantha",
+            "image": "6.PNG",
+            "price": 40,
+            "cuisine": "northIndian",
+            "quantity": 2
+          }
+        ],
+        "totalPrice": 80,
+        "formData": {
+          "firstName": "a",
+          "lastName": "a",
+          "address": "a",
+          "city": "a",
+          "state": "a"
+        }
+      },
+      "id": 6
+    },
+    {
+      "user_id": "kanika",
+      "date": "2023-07-06",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 6,
+            "name": "Aaloo Prantha",
+            "image": "6.PNG",
+            "price": 40,
+            "cuisine": "northIndian",
+            "quantity": 2
+          },
+          {
+            "id": 5,
+            "name": "Dal Makhni",
+            "image": "5.PNG",
+            "price": 100,
+            "cuisine": "northIndian",
+            "quantity": 2
+          }
+        ],
+        "totalPrice": 280,
+        "formData": {
+          "firstName": "kanika",
+          "lastName": "k",
+          "address": "k",
+          "city": "k",
+          "state": "k"
+        }
+      },
+      "id": 7
+    },
+    {
+      "user_id": "amit",
+      "date": "2023-07-06",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 6,
+            "name": "Aaloo Prantha",
+            "image": "6.PNG",
+            "price": 40,
+            "cuisine": "northIndian",
+            "quantity": 1
+          },
+          {
+            "id": 5,
+            "name": "Dal Makhni",
+            "image": "5.PNG",
+            "price": 100,
+            "cuisine": "northIndian",
+            "quantity": 3
+          }
+        ],
+        "totalPrice": 204,
+        "formData": {
+          "firstName": "amit",
+          "lastName": "a",
+          "address": "a",
+          "city": "a",
+          "state": "a"
+        }
+      },
+      "id": 8
+    },
+    {
+      "user_id": "amit",
+      "date": "2023-07-20",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 1,
+            "name": "Chowmine",
+            "image": "1.PNG",
+            "price": 120,
+            "cuisine": "chinese",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 120,
+        "formData": {
+          "firstName": "Amit",
+          "lastName": "PRIYADARSHI",
+          "address": "bhagalpur,bihar",
+          "city": "bangalore",
+          "state": "bihar"
+        }
+      },
+      "id": 9
+    },
+    {
+      "user_id": "bahadursingh",
+      "date": "2023-08-03",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 4,
+            "name": "Momos",
+            "image": "4.PNG",
+            "price": 40,
+            "cuisine": "chinese",
+            "quantity": 1
+          },
+          {
+            "id": 1,
+            "name": "Chowmine",
+            "image": "1.PNG",
+            "price": 120,
+            "cuisine": "chinese",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 144,
+        "formData": {
+          "firstName": "dheeraj",
+          "lastName": "singh",
+          "address": "Delhi",
+          "city": "delhi",
+          "state": "delhi"
+        }
+      },
+      "id": 10
+    },
+    {
+      "user_id": "bahadursingh",
+      "date": "2023-08-04",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 1,
+            "name": "Chowmine",
+            "image": "1.PNG",
+            "price": 120,
+            "cuisine": "chinese",
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "name": "Momos",
+            "image": "4.PNG",
+            "price": 40,
+            "cuisine": "chinese",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 144,
+        "formData": {
+          "firstName": "a",
+          "lastName": "as",
+          "address": "aasa",
+          "city": "del",
+          "state": "del"
+        }
+      },
+      "id": 11
+    },
+    {
+      "user_id": "bahadursingh",
+      "date": "2023-08-07",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 4,
+            "name": "Momos",
+            "image": "4.PNG",
+            "price": 40,
+            "cuisine": "chinese",
+            "quantity": 1
+          },
+          {
+            "id": 1,
+            "name": "Chowmine",
+            "image": "1.PNG",
+            "price": 120,
+            "cuisine": "chinese",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 144,
+        "formData": {
+          "firstName": "WW",
+          "lastName": "fS",
+          "address": "JH",
+          "city": "G",
+          "state": "H"
+        }
+      },
+      "id": 12
+    },
+    {
+      "user_id": "bahadursingh",
+      "date": "2023-08-07",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 4,
+            "name": "Momos",
+            "image": "4.PNG",
+            "price": 40,
+            "cuisine": "chinese",
+            "quantity": 1
+          },
+          {
+            "id": 1,
+            "name": "Chowmine",
+            "image": "1.PNG",
+            "price": 120,
+            "cuisine": "chinese",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 128,
+        "formData": {
+          "firstName": "dheraj",
+          "lastName": "kapri",
+          "address": "delhi",
+          "city": "delhi",
+          "state": "delhi"
+        }
+      },
+      "id": 13
+    },
+    {
+      "user_id": "bahadursingh",
+      "date": "2023-08-09",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 3,
+            "name": "Idli",
+            "image": "3.PNG",
+            "price": 50,
+            "cuisine": "southIndian",
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "name": "Dosa",
+            "image": "2.PNG",
+            "price": 100,
+            "cuisine": "southIndian",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 90,
+        "formData": {
+          "firstName": "dheeraj",
+          "lastName": "kapri",
+          "address": "hj",
+          "city": "khatima",
+          "state": "delhi"
+        }
+      },
+      "id": 14
+    },
+    {
+      "user_id": null,
+      "date": "2023-09-22",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 4,
+            "name": "Momos",
+            "image": "4.PNG",
+            "price": 40,
+            "cuisine": "chinese",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 40,
+        "formData": {
+          "firstName": "dheeraj",
+          "lastName": "kapri",
+          "address": "g",
+          "city": "g",
+          "state": "del"
+        }
+      },
+      "id": 15
+    },
+    {
+      "user_id": null,
+      "date": "2023-09-22",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 4,
+            "name": "Momos",
+            "image": "4.PNG",
+            "price": 40,
+            "cuisine": "chinese",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 40,
+        "formData": {
+          "firstName": "dheeraj",
+          "lastName": "kapri",
+          "address": "g",
+          "city": "aa",
+          "state": "jk"
+        }
+      },
+      "id": 16
+    },
+    {
+      "user_id": null,
+      "date": "2023-09-22",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 4,
+            "name": "Momos",
+            "image": "4.PNG",
+            "price": 40,
+            "cuisine": "chinese",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 40,
+        "formData": {
+          "firstName": "dheeraj",
+          "lastName": "kapri",
+          "address": "r",
+          "city": "delhi",
+          "state": "a"
+        }
+      },
+      "id": 17
+    },
+    {
+      "user_id": null,
+      "date": "2023-09-22",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 4,
+            "name": "Momos",
+            "image": "4.PNG",
+            "price": 40,
+            "cuisine": "chinese",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 40,
+        "formData": {
+          "firstName": "a",
+          "lastName": "a",
+          "address": "aa",
+          "city": "a",
+          "state": "a"
+        }
+      },
+      "id": 18
+    },
+    {
+      "user_id": null,
+      "date": "2023-09-22",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 1,
+            "name": "Chowmine",
+            "image": "1.PNG",
+            "price": 120,
+            "cuisine": "chinese",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 120,
+        "formData": {
+          "firstName": "s",
+          "lastName": "dsd",
+          "address": "d",
+          "city": "sd",
+          "state": "d"
+        }
+      },
+      "id": 19
+    },
+    {
+      "user_id": null,
+      "date": "2023-09-22",
+      "orderData": {
+        "cartItems": [
+          {
+            "id": 4,
+            "name": "Momos",
+            "image": "4.PNG",
+            "price": 40,
+            "cuisine": "chinese",
+            "quantity": 1
+          }
+        ],
+        "totalPrice": 40,
+        "formData": {
+          "firstName": "cz",
+          "lastName": "z",
+          "address": "x",
+          "city": "z",
+          "state": "x"
+        }
+      },
+      "id": 20
+    }
+  ],
+  "offers": [
+    {
+      "name": "INDEPENDENCEDAY",
+      "image": "image/independenceDay.jpg",
+      "couponCode": "INDI50"
+    },
+    {
+      "name": "RAKSHABANDHAN",
+      "image": "image/rakshabandhan.jpg",
+      "couponCode": "RAKSHA50"
+    },
+    {
+      "name": "DIWALI",
+      "image": "image/diwali.jpg",
+      "couponCode": "DIWALI40"
+    }
+  ]
+}

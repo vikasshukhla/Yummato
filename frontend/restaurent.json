@@ -1,0 +1,164 @@
+{
+    "restaurant": [
+        {
+            "id": 1,
+            "name": "Brijwasi",
+            "image": "diverse",
+            "rating": 4.5,
+            "location": "Mumbai",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 2,
+            "name": " Karim's",
+            "image": "fresh",
+            "rating": 4.1,
+            "location": "Mumbai",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 3,
+            "name": " The Pizza Express",
+            "image": "place",
+            "rating": 3.8,
+            "location": "Mumbai",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 4,
+            "name": "IGP cakes",
+            "image": "noodles",
+            "rating": 3.4,
+            "location": "Mumbai",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 5,
+            "name": " Flower Family",
+            "image": "idli",
+            "rating": 4.1,
+            "location": "Noida",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 6,
+            "name": "Pizza Hut",
+            "image": "slicee",
+            "rating": 4.8,
+            "location": "Mumbai",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 7,
+            "name": "Dominos",
+            "image": "diverse",
+            "rating": 4.5,
+            "location": "Noida",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 8,
+            "name": "Delhi Darbar",
+            "image": "salads",
+            "rating": 4.8,
+            "location": "Mumbai",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 9,
+            "name": "imperfecto",
+            "image": "fresh",
+            "rating": 4.3,
+            "location": "Noida",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 10,
+            "name": "LaPizza",
+            "image": "salads",
+            "rating": 3.8,
+            "location": "Gurgoan",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 11,
+            "name": "khan chacha",
+            "image": "diverse",
+            "rating": 4.3,
+            "location": "Mumbai",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 12,
+            "name": "Echoes",
+            "image": "noodles",
+            "rating": 4.2,
+            "location": "Mumbai",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 13,
+            "name": "Drink and Daddy",
+            "image": "diverse",
+            "rating": 4.7,
+            "location": "Mumbai",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 14,
+            "name": "king cafe",
+            "image": "idli",
+            "rating": 4.6,
+            "location": "Gurgoan",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 15,
+            "name": "Pizza Slice",
+            "image": "slicee",
+            "rating": 4.8,
+            "location": "Bangalore",
+            "images":{
+              "location":"image/1.png"
+            }
+          },
+          {
+            "id": 16,
+            "name": "Pizza Hut",
+            "image": "noodles",
+            "rating": 4.1,
+            "location": "Noida",
+            "images":{
+              "location":"image/1.png"
+            }
+          }
+    ]
+  }
